@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h1{
+    color: antiquewhite;
+    font-size: 1rem;
+    text-align: center;
+    
+}
+.Poster{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+    color: whitesmoke;
+    text-align: centre;
+
+}
+p{
+    color: red;
+    text-align: center;
+}
+.Pic{
+    border: 5px solid white;
+    width: 100%;
+}
